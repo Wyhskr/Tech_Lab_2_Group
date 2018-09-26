@@ -1,9 +1,9 @@
-State,% of Population
-New South Wales,85.2
-Victoria,86.8
-Queensland,86.3
-South Australia,82.5
-Western Australia,88.4
-Tasmania,83.4
-Northern Territory,89
-Australian Capital Territory,94.1
+Country,State,All %
+Australia,New South Wales,85.2
+Australia,Victoria,86.8
+Australia,Queensland,86.3
+Australia,South Australia,82.5
+Australia,Western Australia,88.4
+Australia,Tasmania,83.4
+Australia,Northern Territory,89
+Australia,Australian Capital Territory,94.1
