@@ -1,0 +1,30 @@
+"","Country","State","Code","Region","Income","National Percent","State Percent","Ind Percent"
+"1","Afghanistan",NA,"AFG","South Asia","Low income",10.596,NA,NA
+"2","Australia","New South Wales","AUS","East Asia & Pacific","High income",88.239,85.2,73.5
+"3","Australia","Victoria","AUS","East Asia & Pacific","High income",88.239,86.8,77.59
+"4","Australia","Queensland","AUS","East Asia & Pacific","High income",88.239,86.3,73.54
+"5","Australia","South Australia","AUS","East Asia & Pacific","High income",88.239,82.5,68.79
+"6","Australia","Western Australia","AUS","East Asia & Pacific","High income",88.239,88.4,65.49
+"7","Australia","Tasmania","AUS","East Asia & Pacific","High income",88.239,83.4,76.49
+"8","Australia","Northern Territory","AUS","East Asia & Pacific","High income",88.239,89,55
+"9","Australia","Australian Capital Territory","AUS","East Asia & Pacific","High income",88.239,94.1,85
+"10","Australia",NA,"AUS","East Asia & Pacific","High income",88.239,NA,NA
+"11","Bermuda",NA,"BMU","North America","High income",98,NA,NA
+"12","Brazil",NA,"BRA","Latin America & Caribbean","Upper middle income",60.873,NA,NA
+"13","Canada",NA,"CAN","North America","High income",89.84,NA,NA
+"14","China",NA,"CHN","East Asia & Pacific","Upper middle income",53.2,NA,NA
+"15","Croatia",NA,"HRV","Europe & Central Asia","High income",72.697,NA,NA
+"16","India",NA,"IND","South Asia","Lower middle income",29.547,NA,NA
+"17","Italy",NA,"ITA","Europe & Central Asia","High income",61.324,NA,NA
+"18","Mexico",NA,"MEX","Latin America & Caribbean","Upper middle income",59.54,NA,NA
+"19","Morocco",NA,"MAR","Middle East & North Africa","Lower middle income",58.271,NA,NA
+"20","Pakistan",NA,"PAK","South Asia","Lower middle income",15.515,NA,NA
+"21","Saudi Arabia",NA,"SAU","Middle East & North Africa","High income",73.751,NA,NA
+"22","Solomon Islands",NA,"SLB","East Asia & Pacific","Lower middle income",11.001,NA,NA
+"23","Somalia",NA,"SOM","Sub-Saharan Africa","Low income",1.88,NA,NA
+"24","South Africa",NA,"ZAF","Sub-Saharan Africa","Upper middle income",54,NA,NA
+"25","United Arab Emirates",NA,"ARE","Middle East & North Africa","High income",90.6,NA,NA
+"26","United Kingdom",NA,"GBR","Europe & Central Asia","High income",94.776,NA,NA
+"27","United States",NA,"USA","North America","High income",76.177,NA,NA
+"28","Uruguay",NA,"URY","Latin America & Caribbean","High income",66.4,NA,NA
+"29","Zimbabwe",NA,"ZWE","Sub-Saharan Africa","Low income",23.12,NA,NA
