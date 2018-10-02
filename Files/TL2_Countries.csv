@@ -1,0 +1,22 @@
+Country,Code,Region,Income,Percentage
+Afghanistan,AFG,South Asia,Low income,10.596
+Australia,AUS,East Asia & Pacific,High income,88.239
+Bermuda,BMU,North America,High income,98
+Brazil,BRA,Latin America & Caribbean,Upper middle income,60.873
+Canada,CAN,North America,High income,89.84
+China,CHN,East Asia & Pacific,Upper middle income,53.2
+Croatia,HRV,Europe & Central Asia,High income,72.697
+India,IND,South Asia,Lower middle income,29.547
+Italy,ITA,Europe & Central Asia,High income,61.324
+Mexico,MEX,Latin America & Caribbean,Upper middle income,59.54
+Morocco,MAR,Middle East & North Africa,Lower middle income,58.271
+Pakistan,PAK,South Asia,Lower middle income,15.515
+Saudi Arabia,SAU,Middle East & North Africa,High income,73.751
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,11.001
+Somalia,SOM,Sub-Saharan Africa,Low income,1.88
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,54
+United Arab Emirates,ARE,Middle East & North Africa,High income,90.6
+United Kingdom,GBR,Europe & Central Asia,High income,94.776
+United States,USA,North America,High income,76.177
+Uruguay,URY,Latin America & Caribbean,High income,66.4
+Zimbabwe,ZWE,Sub-Saharan Africa,Low income,23.12
