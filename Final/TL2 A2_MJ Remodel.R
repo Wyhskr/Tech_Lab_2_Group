@@ -2,20 +2,17 @@ library(tidyverse)
 library(lubridate)
 library(dplyr)
 
-setwd("~/OneDrive - University of Technology Sydney/2018/Semester 2/Tech Lab 2/Assessments/Ass2/TL2: A2")
+setwd("~/Documents/GitHub/Tech_Lab_2_Group/Files")
 
-countries <- read_csv("Countries.csv")
-state <- read_csv("States.csv")
-ind <- read_csv("Ind.csv")
+df1 <- read_csv("TL2_Region_Average.csv")
+df1$Region <- factor(df1$Region, levels=c("East Asia & Pacific", "Europe & Central Asia", "Latin America & Caribbean","Middle East & North Africa", "North America", "South Asia","Sub-Saharan Africa"))
 
-leftJoin <- countries %>% 
-  left_join(state, by="Country") %>%
-  left_join(ind, by=c("State","Country")) %>% 
-  select(Country, State, Code, Region, Income,'National Percent', 'State Percent','Ind Percent')
+ggplot(data = df1) +
+  geom_bar(mapping = aes(x = Region, y = Percentage, fill = Region), stat = "identity")
 
-write.csv(leftJoin, "TL2_Dataset.csv")
-
-
+ggplot(data=df1)+
+  geom_bar(aes(x=Income,y=Percentage))+
+  facet_wrap(~Region, nrow=3)
 
 
 
